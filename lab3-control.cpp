@@ -24,7 +24,7 @@ int main() {
     
     
 
-    int num;
+
 
     cout << "Enter a number to print its multiplication table: ";
     cin >> num;
